@@ -3,13 +3,15 @@
 
 <h4>About me: </h4>
 
+- I'm Industrial engineering of University of Antioquia.
+
 - 📖 I'm currently studying and working on personal projects with help on Platzi
 
 - 🚀 I'm currently learning the Stack MERN (Mongodb, Express, React, NodeJs)
 
 - ✉️ You can contact with me on **sebaspatig@gmail.com**
 
-- 📑 Know more...<a href="https://1drv.ms/b/s!AutIJQnetYuhpMUUc2t1YIexxQXkcg" target="_blank">Resume</a>
+- 📑 If want to Know more about me...<a href="https://1drv.ms/b/s!AutIJQnetYuhpMUUc2t1YIexxQXkcg" target="_blank">Resume</a>
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
@@ -21,10 +23,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
 alt="css" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background:white;" fill="white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="40" height="40" />
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
 alt="git" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background:white;" fill="white"/>
