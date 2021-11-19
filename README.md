@@ -9,11 +9,11 @@
 
 - ✉️ You can contact with me on **sebaspatig@gmail.com**
 
-- 📑 Know more... [Resume](https://1drv.ms/b/s!AutIJQnetYuhpMUUc2t1YIexxQXkcg)
+- 📑 Know more...<a href="https://1drv.ms/b/s!AutIJQnetYuhpMUUc2t1YIexxQXkcg" target="_blank">Resume</a>
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sebaspatig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Logo" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebaspatig/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Logo" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
